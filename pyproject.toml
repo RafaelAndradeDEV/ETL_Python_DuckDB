@@ -13,6 +13,7 @@ duckdb = "^0.10.0"
 psycopg2-binary = "^2.9.9"
 psycopg2 = "^2.9.9"
 sqlalchemy = "^2.0.28"
+python-dotenv = "^1.0.1"
 
 
 [build-system]
