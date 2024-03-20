@@ -1,7 +1,7 @@
 import streamlit as st
 from pipeline import Pipeline
 
-st.title('Procesador de dados')
+st.title('Processador de dados')
 
 def main():
    pipeline = Pipeline()
