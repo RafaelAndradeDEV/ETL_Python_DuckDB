@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "etl-python-duckdb"
+name = "ETL_Python_DuckDB"
 version = "0.1.0"
 description = ""
 authors = ["RafaelAndradeDEV <rafaelandradeoli05@gmail.com>"]
